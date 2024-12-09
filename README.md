@@ -54,7 +54,7 @@
 ## Kurulum
 
 ```bash
-git clone https://github.com/kullaniciadi/karar-destek-sistemi.git
+git clone https://github.com/yunusorak/karar-destek-sistemi.git
 cd karar-destek-sistemi
 npm install
 npm run dev
